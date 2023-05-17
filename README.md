@@ -1,12 +1,19 @@
 # Hoja-De-Vida
 <h1 align="center">Hi 👋, I'm Josar Monterrosa</h1>
+
 ## DATOS PERSONALES ##
 **NOMBRES:** Josar David
+
 **APELLIDOS:** Monterrosa Bolaño
+
 **FECHA DE NACIMIENTO:** 22/04/2003
+
 **LUGAR DE NACIMIENTO:** Barranquilla, Átlantico
+
 **NÚMERO DE IDENTIFICACIÓN:** 1001855662
+
 **NÚMERO DE CONTACTO:** 3017668582
+
 ## COMPETENCIAS ##
 - Trabajo en equipo
 - Comunicación activa

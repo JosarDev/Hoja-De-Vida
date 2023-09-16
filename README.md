@@ -40,6 +40,8 @@
 * Anime
 * Documentales
 
+## REDES ##
+
 [Facebook.com](https://www.facebook.com/JosarDavid22)
 
 [YouTube.com](https://www.youtube.com/channel/UCir44fwxQSK5KRZ19N7IeSA)

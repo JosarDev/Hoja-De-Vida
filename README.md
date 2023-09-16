@@ -1,7 +1,9 @@
 # Hoja-De-Vida
 
 <h1 align="center">Hi 👋, I'm Josar Monterrosa</h1>
-![Banner](https://i.imgur.com/BjZArLx.png)
+<h3 align="center">Apasionado por el mundo de la Programacion</h3>
+
+"Soy un programador altamente competente con experiencia en el desarrollo de software de alta calidad. Mi habilidad para diseñar, implementar y mantener soluciones informáticas eficientes me ha permitido contribuir de manera significativa en proyectos diversos. Poseo sólidos conocimientos en múltiples lenguajes de programación, así como experiencia en la resolución eficaz de problemas y la colaboración en equipos multidisciplinarios. Mi pasión por la tecnología y mi compromiso con la excelencia me impulsan a seguir aprendiendo y creciendo como profesional en el campo de la programación."
 
 ## DATOS PERSONALES ##
 

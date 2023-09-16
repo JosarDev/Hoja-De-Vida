@@ -32,7 +32,7 @@
 
 ```javascript
 const Developer--Josar = {
-   code: [Javascript, HTML, CSS, Java, PHP, SQL, MySQL, Ruby on Rails]
+   code: [Javascript, HTML, CSS, Java, PHP, SQL, MySQL, Ruby on Rails, Git y GitHub]
 };
 ```
 

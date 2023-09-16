@@ -19,6 +19,8 @@
 
 **NÚMERO DE CONTACTO:** 3017668582
 
+**CORREO ELECTRONICO:** josar2204@hotmail.com
+
 ## COMPETENCIAS ##
 
 * Trabajo en equipo

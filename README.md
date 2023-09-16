@@ -1,6 +1,7 @@
 # Hoja-De-Vida
 
 <h1 align="center">Hi 👋, I'm Josar Monterrosa</h1>
+![Banner](https://i.imgur.com/BjZArLx.png)
 
 ## DATOS PERSONALES ##
 
@@ -23,7 +24,18 @@
 * Exprecion de ideas
 * Habilidades digitales
 
-## EDUCACIÓN ##
+
+## :page_facing_up: Acerca de mi en codigo:
+
+
+```javascript
+const Developer--Josar = {
+   code: [Javascript, HTML, CSS, Java, PHP, SQL, MySQL, Ruby on Rails]
+};
+```
+
+
+## :mortar_board: Formación
 
 * |  Institucion                     |     Grado       |  Finalizacion |
   |--------------------------------- |:---------------:|--------------:|
@@ -40,7 +52,7 @@
 * Anime
 * Documentales
 
-## REDES ##
+## 📫 Puedes encontrarme en:
 
 [Facebook.com](https://www.facebook.com/JosarDavid22)
 
